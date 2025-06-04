@@ -59,12 +59,6 @@ Exam-Generator-main/
         └── Test.java
 ```
 
-- **KnownIssues.md**  
-  Lists any known bugs or limitations.
-
-- **README.md**  
-  Original project README (this file supersedes it for clarity).
-
 - **Test_Files/db_File.backup**  
   SQLite database file with initial schema and test data.
 
@@ -165,12 +159,6 @@ The SQLite database (`db_File.backup`) contains two primary tables:
   - `student_id` (TEXT) – Unique student identifier  
   - `answer_text` (TEXT) – Student’s answer (choice or free text)  
   - `is_correct` (INTEGER) – `0` (false) or `1` (true), computed upon insertion
-
----
-
-## Known Issues
-
-Refer to **KnownIssues.md** for a detailed list of current limitations and potential bugs.
 
 ---
 
