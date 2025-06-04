@@ -31,8 +31,6 @@ A Java-based console application for managing database-backed exams. Supports va
 
 ```
 Exam-Generator-main/
-├── KnownIssues.md
-├── README.md
 ├── Test_Files/
 │   └── db_File.backup
 ├── bin/
