@@ -1,4 +1,4 @@
-# exam-generator
+# Exam-Generator
 
 A Java-based console application for managing database-backed exams. Supports various question types (multiple-choice, open-ended), answers, and exam management through a menu-driven interface.
 
