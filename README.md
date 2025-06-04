@@ -8,10 +8,10 @@ A Java-based console application for managing database-backed exams. Supports va
 
 - **Menu-driven Exam Management**  
   Provides a console menu to:
-  1. Add and manage questions (multiple-choice and open-ended).
-  2. Add and manage answers for questions.
-  3. Administer exams and record responses.
-  4. Persist data in a database file.
+  - Add and manage questions (multiple-choice and open-ended).
+  - Add and manage answers for questions.
+  - Administer exams and record responses.
+  - Persist data in a database file.
 
 - **Question Types**  
   - **MultiChoiceQuestion**: Supports adding multiple-choice options and correct answers.
